@@ -1,5 +1,7 @@
 # Incremental Model for Animal Data Management in DBT
 
+![SQL](https://img.shields.io/badge/Language-SQL-00758F?style=flat&logo=postgresql&logoColor=white) ![DBT](https://img.shields.io/badge/Framework-DBT-FF694B?style=flat&logo=dbt&logoColor=white)
+
 ## Overview
 This DBT model is designed to manage and analyze animal-related data using an incremental approach. It processes data from multiple sources, combines it, and handles schema changes dynamically to ensure accurate and efficient data management.
 
